@@ -1,9 +1,21 @@
 ## Hi there 👋
 
 <p>
-  I'm Yuri Bohomolov, a beginner Backend C#/.NET developer. I have knowledge in C#/.NET, T-SQL, Entity Framework Core, ASP.NET Core, MS SQL Server, PostgreSQL, Docker, and basic understanding of HTML/CSS and   
-  JavaScript/TypeScript and Angular. I'm passionate about creating efficient and scalable code. Check out my projects and repositories on GitHub. Let's collaborate and create something amazing together!
-  Feel free to adjust it to fit your own style and preferences. Happy coding on GitHub!
+ I'm Yurii Bohomolov, a beginner backend developer focusing on C#/.NET and related technologies.
+
+My journey in programming started with a passion for the C# language and the .NET platform. Since then, I have been actively learning and building applications using various tools and frameworks such as .NET Core, ASP.NET Core, and Entity Framework Core.
+
+My primary area of expertise lies in server-side application development using C#/.NET and ASP.NET Core. I have experience working with databases, including MS SQL Server and PostgreSQL, and I know how to efficiently interact with them using ORM frameworks, particularly Entity Framework Core.
+
+Additionally, I have hands-on experience with containerization using Docker, enabling me to create independent and scalable environments for deploying my applications.
+
+I also have a basic understanding of HTML/CSS, JavaScript/TypeScript, and the Angular framework, allowing me to create simple and interactive user interfaces.
+
+On GitHub, I share my projects, code samples, and experiments related to C#/.NET development. My goal is continuous learning and growth in the field of software development.
+
+I am always open to new challenges, collaboration opportunities, and knowledge sharing. If you have any questions, suggestions, or just want to connect, feel free to reach out to me.
+
+Thank you for visiting my GitHub profile!
 </p>
 
 ## 💻 Main Tech Stack
