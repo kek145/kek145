@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p>
- I'm Yurii Bohomolov, a beginner backend developer focusing on C#/.NET.
+ I'm Yurii Bohomolov, a .NET Backend developer focusing on C#/.NET.
 
   My journey in programming started with a passion for the C# language and the .NET platform. Since then, 
   I have been actively learning and building applications using various tools and frameworks such as .NET Core, ASP.NET  Core, and Entity Framework Core.
