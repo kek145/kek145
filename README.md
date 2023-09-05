@@ -34,18 +34,9 @@
 
 ## Connect with me  
 <div align="left">
- <a href="https://github.com/https://github.com/kek145" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
- </a>
  <a href="https://linkedin.com/in/https://www.linkedin.com/in/yuri-bohomolov-5b166624b/" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
  </a>  
 </div>  
 
 ## 💹 Github Stats
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kek145&show_icons=true&theme=radical)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kek145&theme=radical)
