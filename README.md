@@ -2,6 +2,7 @@
 
 <p>
   I'm Yurii Bohomolov, a .NET Backend developer
+  \n
   Thank you for visiting my GitHub profile!
 </p>
 
