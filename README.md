@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p>
-  I'm Yurii Bohomolov, a .NET Backend developer
+  I'm Yurii, a .NET Software Engineer
   Thank you for visiting my GitHub profile!
 </p>
 
